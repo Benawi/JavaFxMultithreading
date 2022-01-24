@@ -7,7 +7,7 @@ public class RunnableDemo implements Runnable {
 
     RunnableDemo(String name) {
         threadName = name;
-        System.out.println("Creating thread "
+        System.out.println("Creating thread cs class "
                 + threadName);
     }
 
